@@ -19,3 +19,21 @@ nav a{
   padding-left: 10px;
 
 }
+figcaption{
+  text-align: center;
+}
+p #featured-property{
+  text-align: center;
+  width: 800px;
+  
+}
+section #details{
+  display: inline-block;
+}
+section div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  
+}
+
